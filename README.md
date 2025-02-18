@@ -1,6 +1,6 @@
 Tic Tac Toe Game(Console & GUI Version)
 
-This Java project implements a classic Tic Tac Toe game for two players with both console-based and GUI-based interfaces. It’s designed to ensure fairness and user-friendly interactions, making it an ideal learning tool for beginners in Java programming and game development.
+This Java project implements a classic Tic Tac Toe game for two players with both console-based and GUI-based interfaces.The Project is based on MVC architecture pattern.It’s designed to ensure fairness and user-friendly interactions, making it an ideal learning tool for beginners in Java programming and game development.
 
 Key Features
 
